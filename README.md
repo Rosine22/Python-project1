@@ -1,13 +1,13 @@
 # Log Analyzer CLI
 
-A Python CLI that reads a log file and prints a summary of errors, warnings, and when they happened.
+A Python CLI that reads a log file and prints a summary of errors,  warnings, and when they happened.
 
 ---
 
 ## Requirements
 
 - Python 3.10+
-- No installs needed
+- There is No installs needed
 
 ---
 
