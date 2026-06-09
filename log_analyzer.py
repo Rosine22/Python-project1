@@ -100,7 +100,7 @@ def parse_line(line: str) -> dict | None:
     return None          
 
 
-# FEATURE 3 + 4 + 5: 
+# FEATURE 3, 4 , 5: 
 def analyze_logs(
     lines,
     filter_level: str | None = None,
